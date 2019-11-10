@@ -1,0 +1,67 @@
+[
+    {
+        "distance":17.2240253007496,
+        "first_path_id":3965,
+        "heading":2.242,
+        "headings":[
+            [
+                2.242,
+                4.859993877991494,
+                4.71238898038469,
+                3.141592653589793
+            ],
+            [
+                3.141592653589793,
+                3.141592653589793
+            ],
+            [
+                1.795,
+                1.795,
+                1.5707963267948966
+            ],
+            [
+                1.5707963267948966,
+                1.5707963267948966,
+                1.5707963267948966
+            ]
+        ],
+        "instructions":[
+            "exit the room then go straight and turn left. ",
+            "go straight until you pass an eye chart picture frame on the left wall then wait there. ",
+            "go straight. pass the bar with the stools. ",
+            "walk straight until you get to a table with chairs then stop. "
+        ],
+        "path":[
+            "ead481533f834704bd489d3d44b6a03a",
+            "b8c7c025564d4c8391833236f4f782c0",
+            "e1f88263b98d46909c3e00e9250b6a4b",
+            "81dab76afc424a5b9ab7c7d2432c633f",
+            "d9d0b72a2929495cb1fc8df42c84b18a",
+            "ab993d543aed47fe9360f05eb03f301b",
+            "f237319a500640d8ac172db225a3ce9c",
+            "145a35f5ca544943b8bc2f997e5f9978",
+            "3493ecf114864afc99d568421c0b42f6",
+            "84f05044aa1542a18b082255100f2c39"
+        ],
+        "path_id":34609,
+        "scan":"zsNo4HB9uLZ",
+        "second_path_id":6982,
+        "tags":[
+            [
+                "room"
+            ],
+            [
+                "left wall",
+                "eye chart picture frame"
+            ],
+            [
+                "stool",
+                "bar"
+            ],
+            [
+                "chair",
+                "table"
+            ]
+        ]
+    }
+]
